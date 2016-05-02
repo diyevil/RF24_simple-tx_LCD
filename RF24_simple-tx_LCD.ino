@@ -2,8 +2,9 @@
 /*
 * Getting Started example sketch for nRF24L01+ radios
 * This is an example of how to send data from one node to another using data structures
-* Updated: Dec 2014 by TMRh20
+* Based off of code by TMRh20
 */
+
 #include <SoftwareSerial.h>
 #include <serLCD.h>
 #include <SPI.h>
